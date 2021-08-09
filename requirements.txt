@@ -55,7 +55,7 @@ pyquery==1.4.1
 pyspider==0.3.10
 python-dateutil==2.8.1
 pytz==2019.3
-pywin32==227
+pywin32==301
 PyYAML==5.3
 queuelib==1.5.0
 redis==3.4.1
