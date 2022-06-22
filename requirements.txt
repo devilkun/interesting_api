@@ -35,7 +35,7 @@ mysql==0.0.2
 mysqlclient==1.4.6
 newspaper3k==0.2.8
 nltk==3.4.5
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.0
 parsel==1.5.2
 pexpect==4.8.0
