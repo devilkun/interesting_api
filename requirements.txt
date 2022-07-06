@@ -29,7 +29,7 @@ jieba3k==0.35.1
 Jinja2==2.11.1
 json5==0.9.1
 logparser==0.8.2
-lxml==4.5.0
+lxml==4.9.1
 MarkupSafe==1.1.1
 mysql==0.0.2
 mysqlclient==1.4.6
